@@ -1,2 +1,2 @@
-# VCC-Intern-DDoS-Protection-v7
+Nginx-DDoS-Protection
 Simple script to protect DDoS based on parsing nginx log
